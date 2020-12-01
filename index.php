@@ -16,7 +16,7 @@
         
         <nav>
             <ul>
-                <li><a href="">HOME</a></li>
+                <li><a href="">HOLA CRACKS</a></li>
                 <li><a href="">CATEGORIA DE PRODUCTOS</a></li>
                 <li><a href="">CONTACTANOS</a></li>
             </ul>
