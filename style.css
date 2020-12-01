@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+  text-align: justify;
+  background-color:white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#m{
+    float: left;
+    margin: auto;
+    width: 130px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+#im{
+    float: right;
+    margin: auto;
+    width: 52px;
+    margin-top: 55px;
+    margin-right: 190px;
+   
+}
+#img{
+    float: right;
+    margin: auto;
+    width: 80px;
+    margin-top: 55px;
+    
+}
+li{
+    float: left;
+    list-style: none;
+    margin-top: 150px;
+    
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    
+    
+}
+nav{
+    float: left;
+    margin-left: -146px;
+}
+li:hover a{
+    color: blue;
+}
+div#general{
+    width: 1370px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+div#cabecera{
+    width: 1370px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+div#logo{
+    margin: auto;
+    width: 1060px;
+    height: 200px;
+    background-color: green;
+}
+#logo{
+    width: 1060px;
+    height: 200px; 
+}
+div#titulo{
+    margin: auto;
+    width: 1060px;
+    height: 65px;
+}
+#til{
+    text-align: center;
+    margin-top: 55px;
+    font-weight: normal;
+}
+div#iconos{
+    margin: auto;
+    width: 870px;
+    height: 250px;
+    background-color: white;
+}
+#icon{
+    width: 115px;
+    height: 110px;
+    padding: 13.1px;
+    
+}
+
